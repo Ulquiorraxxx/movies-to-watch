@@ -1,8 +1,42 @@
 [
     {
+        "title": "Avatar 2",
+        "rating": "9.8",
+        "watched": true
+    },
+    {
+        "title": "Avatar",
+        "rating": "9.7",
+        "watched": true
+    },
+    {
+        "title": "Wolf from wall street",
+        "rating": "9.2",
+        "watched": true
+    },
+    {
+        "title": "Terminator 2",
+        "rating": "9.1",
+        "watched": true
+    },
+    {
+        "title": "king kong vs godzilla",
+        "rating": "8.8",
+        "watched": false
+    },
+    {
+        "title": "Terminator",
+        "rating": "8.6",
+        "watched": true
+    },
+    {
         "title": "Memento",
         "rating": 8.4,
+        "watched": true
+    },
+    {
+        "title": "it",
+        "rating": "8",
         "watched": false
     }
 ]
-
